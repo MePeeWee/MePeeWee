@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MePeeWee
-- 👀 I’m interested in setting up a development environment for a Qt-Creator/MySql set of apps
+- 👀 I’m interested in setting up a development environment for a Qt-Creator/MySql (C++)set of apps
 - 🌱 I’m currently learning docker
 - 💞️ I’m not looking to collaborate on anything yet.
 - 📫 How to reach me ...

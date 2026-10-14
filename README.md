@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MePeeWee
 - 👀 I’m interested in setting up a docker environment for a Qt-Creator/MySql (C++)set of apps
-- 🌱 I’m currently learning docker
+- 🌱 
 - 💞️ I’m not looking to collaborate on anything yet.
 - 📫 How to reach me ...
 - 😄 Pronouns: 🤓🤐...
